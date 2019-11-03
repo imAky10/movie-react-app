@@ -10,3 +10,5 @@ To run the code in your pc/laptop:
 4. Get into the project file destination.
 5. Run "npm install"
 6. After the installation completes, run "npm start"
+
+Visit the project : [React Movies](https://moviefy-4302b.firebaseapp.com/)
