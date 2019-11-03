@@ -17,7 +17,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://shivasupraj.github.io/Movie-App",
+  
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
